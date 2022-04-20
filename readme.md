@@ -1,11 +1,11 @@
 # Project Setup
 
-
+[![Production Workflow](https://github.com/ChiaLinz/flask_auth/actions/workflows/prod.yml/badge.svg)](https://github.com/ChiaLinz/flask_auth/actions/workflows/prod.yml)
 
 * [Production Deployment](https://lin-auth-prod.herokuapp.com/)
 
 
-
+[![Development Workflow](https://github.com/ChiaLinz/flask_auth/actions/workflows/dev.yml/badge.svg)](https://github.com/ChiaLinz/flask_auth/actions/workflows/dev.yml)
 
 * [Developmental Deployment](https://lin-auth-dev.herokuapp.com/)
 
