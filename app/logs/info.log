@@ -76,3 +76,9 @@ INFO in __init__: this is the plain message
 INFO in __init__: this is the plain message
 [2022-04-26 18:52:08,501] 172.22.0.1 requested http://127.0.0.1/about
 INFO in __init__: this is the plain message
+[2022-04-27 02:32:27,736] 172.22.0.1 requested http://127.0.0.1/
+INFO in __init__: this is the plain message
+[2022-04-27 02:32:28,577] 172.22.0.1 requested http://127.0.0.1/
+INFO in __init__: this is the plain message
+[2022-04-27 02:32:32,243] 172.22.0.1 requested http://127.0.0.1/welcome
+INFO in __init__: this is the plain message
