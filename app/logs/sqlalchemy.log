@@ -1,0 +1,6 @@
+2022-04-27 02:34:48,642 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2022-04-27 02:34:48,644 [INFO] sqlalchemy.engine.Engine: SELECT users.is_active AS users_is_active, users.id AS users_id, users.email AS users_email, users.password AS users_password, users.about AS users_about, users.authenticated AS users_authenticated, users.registered_on AS users_registered_on, users.is_admin AS users_is_admin 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?
+2022-04-27 02:34:48,644 [INFO] sqlalchemy.engine.Engine: [generated in 0.00024s] ('123@gmail.com', 1, 0)
