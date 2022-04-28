@@ -38,3 +38,39 @@ INFO in __init__: requested
 INFO in __init__: requested
 [2022-04-28 05:16:28,076] [117] 172.22.0.1 requested http://127.0.0.1/dashboard
 INFO in __init__: requested
+[2022-04-28 14:35:33,820] [9] 172.22.0.1 requested http://127.0.0.1/
+INFO in __init__: db_dir:/home/myuser/app
+[2022-04-28 14:35:33,913] [9] 172.22.0.1 requested http://127.0.0.1/
+INFO in __init__: requested
+[2022-04-28 14:35:35,994] [9] 172.22.0.1 requested http://127.0.0.1/songs
+INFO in __init__: requested
+[2022-04-28 14:35:36,760] [9] 172.22.0.1 requested http://127.0.0.1/songs/upload
+INFO in __init__: requested
+[2022-04-28 14:36:31,572] [9] 172.22.0.1 requested http://127.0.0.1/songs
+INFO in __init__: requested
+[2022-04-28 14:36:32,068] [9] 172.22.0.1 requested http://127.0.0.1/users
+INFO in __init__: requested
+[2022-04-28 14:36:47,828] [15] 172.22.0.1 requested http://127.0.0.1/users
+INFO in __init__: db_dir:/home/myuser/app
+[2022-04-28 14:36:47,955] [15] 172.22.0.1 requested http://127.0.0.1/users
+INFO in __init__: requested
+[2022-04-28 14:36:48,547] [15] 172.22.0.1 requested http://127.0.0.1/songs/upload
+INFO in __init__: requested
+[2022-04-28 14:36:49,772] [15] 172.22.0.1 requested http://127.0.0.1/welcome
+INFO in __init__: requested
+[2022-04-28 14:37:25,667] [15] 172.22.0.1 requested http://127.0.0.1/welcome
+INFO in __init__: requested
+[2022-04-28 14:37:26,787] [15] 172.22.0.1 requested http://127.0.0.1/users
+INFO in __init__: requested
+[2022-04-28 15:53:03,684] [15] 172.22.0.1 requested http://127.0.0.1/songs/upload
+INFO in __init__: requested
+[2022-04-28 15:53:04,452] [15] 172.22.0.1 requested http://127.0.0.1/welcome
+INFO in __init__: requested
+[2022-04-28 15:53:04,981] [15] 172.22.0.1 requested http://127.0.0.1/about
+INFO in __init__: requested
+[2022-04-28 15:53:05,493] [15] 172.22.0.1 requested http://127.0.0.1/users
+INFO in __init__: requested
+[2022-04-28 15:53:06,454] [15] 172.22.0.1 requested http://127.0.0.1/songs
+INFO in __init__: requested
+[2022-04-28 15:53:06,844] [15] 172.22.0.1 requested http://127.0.0.1/dashboard
+INFO in __init__: requested

@@ -39,3 +39,66 @@
 2022-04-28 05:16:21,690 [INFO] app: Before Request
 2022-04-28 05:16:28,068 [INFO] app: Before Request
 2022-04-28 05:16:28,075 [INFO] app: After Request
+2022-04-28 14:35:33,819 [INFO] log: Logging request info
+2022-04-28 14:35:33,820 [INFO] app: Before Request
+2022-04-28 14:35:33,913 [INFO] app: After Request
+2022-04-28 14:35:33,915 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 14:35:33] "GET / HTTP/1.1" 200 -
+2022-04-28 14:35:35,937 [INFO] app: Before Request
+2022-04-28 14:35:35,994 [INFO] app: After Request
+2022-04-28 14:35:35,995 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 14:35:35] "GET /songs HTTP/1.1" 200 -
+2022-04-28 14:35:36,745 [INFO] app: Before Request
+2022-04-28 14:35:36,760 [INFO] app: After Request
+2022-04-28 14:35:36,761 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 14:35:36] "GET /songs/upload HTTP/1.1" 200 -
+2022-04-28 14:36:31,551 [INFO] app: Before Request
+2022-04-28 14:36:31,572 [INFO] app: After Request
+2022-04-28 14:36:31,574 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 14:36:31] "GET /songs HTTP/1.1" 200 -
+2022-04-28 14:36:32,051 [INFO] app: Before Request
+2022-04-28 14:36:32,059 [INFO] app: Browse page loading
+2022-04-28 14:36:32,068 [INFO] app: After Request
+2022-04-28 14:36:32,069 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 14:36:32] "GET /users HTTP/1.1" 200 -
+2022-04-28 14:36:32,100 [INFO] app: Before Request
+2022-04-28 14:36:32,103 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 14:36:32] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-04-28 14:36:47,223 [INFO] werkzeug:  * Detected change in '/home/myuser/app/config.py', reloading
+2022-04-28 14:36:47,827 [INFO] log: Logging request info
+2022-04-28 14:36:47,828 [INFO] app: Before Request
+2022-04-28 14:36:47,845 [INFO] app: Browse page loading
+2022-04-28 14:36:47,955 [INFO] app: After Request
+2022-04-28 14:36:47,957 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 14:36:47] "GET /users HTTP/1.1" 200 -
+2022-04-28 14:36:47,986 [INFO] app: Before Request
+2022-04-28 14:36:47,988 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 14:36:47] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-04-28 14:36:48,533 [INFO] app: Before Request
+2022-04-28 14:36:48,547 [INFO] app: After Request
+2022-04-28 14:36:48,549 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 14:36:48] "GET /songs/upload HTTP/1.1" 200 -
+2022-04-28 14:36:49,759 [INFO] app: Before Request
+2022-04-28 14:36:49,772 [INFO] app: After Request
+2022-04-28 14:36:49,773 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 14:36:49] "GET /welcome HTTP/1.1" 200 -
+2022-04-28 14:37:25,658 [INFO] app: Before Request
+2022-04-28 14:37:25,666 [INFO] app: After Request
+2022-04-28 14:37:25,668 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 14:37:25] "GET /welcome HTTP/1.1" 200 -
+2022-04-28 14:37:26,770 [INFO] app: Before Request
+2022-04-28 14:37:26,777 [INFO] app: Browse page loading
+2022-04-28 14:37:26,786 [INFO] app: After Request
+2022-04-28 14:37:26,788 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 14:37:26] "GET /users HTTP/1.1" 200 -
+2022-04-28 14:37:26,815 [INFO] app: Before Request
+2022-04-28 14:37:26,817 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 14:37:26] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-04-28 15:53:03,675 [INFO] app: Before Request
+2022-04-28 15:53:03,684 [INFO] app: After Request
+2022-04-28 15:53:03,686 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 15:53:03] "GET /songs/upload HTTP/1.1" 200 -
+2022-04-28 15:53:04,443 [INFO] app: Before Request
+2022-04-28 15:53:04,452 [INFO] app: After Request
+2022-04-28 15:53:04,454 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 15:53:04] "GET /welcome HTTP/1.1" 200 -
+2022-04-28 15:53:04,967 [INFO] app: Before Request
+2022-04-28 15:53:04,981 [INFO] app: After Request
+2022-04-28 15:53:04,983 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 15:53:04] "GET /about HTTP/1.1" 200 -
+2022-04-28 15:53:05,481 [INFO] app: Before Request
+2022-04-28 15:53:05,489 [INFO] app: Browse page loading
+2022-04-28 15:53:05,493 [INFO] app: After Request
+2022-04-28 15:53:05,495 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 15:53:05] "GET /users HTTP/1.1" 200 -
+2022-04-28 15:53:05,541 [INFO] app: Before Request
+2022-04-28 15:53:05,542 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 15:53:05] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-04-28 15:53:06,426 [INFO] app: Before Request
+2022-04-28 15:53:06,454 [INFO] app: After Request
+2022-04-28 15:53:06,456 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 15:53:06] "GET /songs HTTP/1.1" 200 -
+2022-04-28 15:53:06,831 [INFO] app: Before Request
+2022-04-28 15:53:06,843 [INFO] app: After Request
+2022-04-28 15:53:06,845 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 15:53:06] "GET /dashboard HTTP/1.1" 200 -
