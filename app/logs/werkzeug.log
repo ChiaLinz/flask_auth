@@ -121,3 +121,12 @@
 2022-04-28 17:20:17,250 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 17:20:17] "GET /songs/upload HTTP/1.1" 200 -
 2022-04-28 17:20:17,657 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 17:20:17] "GET /songs HTTP/1.1" 200 -
 2022-04-28 17:20:55,459 [INFO] werkzeug:  * Detected change in '/home/myuser/tests/conftest.py', reloading
+2022-04-28 18:30:15,689 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 18:30:15] "GET / HTTP/1.1" 200 -
+2022-04-28 18:32:09,517 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 18:32:09] "GET /users HTTP/1.1" 200 -
+2022-04-28 18:32:09,547 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 18:32:09] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-04-28 18:32:10,581 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 18:32:10] "GET /songs/upload HTTP/1.1" 200 -
+2022-04-28 18:32:11,911 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 18:32:11] "GET /songs HTTP/1.1" 200 -
+2022-04-28 18:32:12,595 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 18:32:12] "GET /songs/upload HTTP/1.1" 200 -
+2022-04-28 18:32:16,874 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 18:32:16] "GET /welcome HTTP/1.1" 200 -
+2022-04-28 18:32:19,008 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 18:32:19] "GET /dashboard HTTP/1.1" 200 -
+2022-04-28 18:46:35,686 [INFO] werkzeug:  * Detected change in '/home/myuser/tests/simple_pages_test.py', reloading

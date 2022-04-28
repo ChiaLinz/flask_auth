@@ -120,3 +120,131 @@
 2022-04-28 17:20:17,654 [INFO] app: After Request
 2022-04-28 17:20:17,657 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 17:20:17] "GET /songs HTTP/1.1" 200 -
 2022-04-28 17:20:55,459 [INFO] werkzeug:  * Detected change in '/home/myuser/tests/conftest.py', reloading
+2022-04-28 18:30:15,590 [INFO] log: Logging request info
+2022-04-28 18:30:15,591 [INFO] app: Before Request
+2022-04-28 18:30:15,687 [INFO] app: After Request
+2022-04-28 18:30:15,689 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 18:30:15] "GET / HTTP/1.1" 200 -
+2022-04-28 18:31:47,564 [INFO] log: Logging request info
+2022-04-28 18:31:47,565 [INFO] app: Before Request
+2022-04-28 18:31:47,640 [INFO] app: After Request
+2022-04-28 18:31:47,658 [INFO] log: Logging request info
+2022-04-28 18:31:47,659 [INFO] app: Before Request
+2022-04-28 18:31:47,659 [INFO] app: After Request
+2022-04-28 18:31:47,661 [INFO] app: Before Request
+2022-04-28 18:31:47,734 [INFO] app: After Request
+2022-04-28 18:31:47,736 [INFO] app: Before Request
+2022-04-28 18:31:47,743 [INFO] app: After Request
+2022-04-28 18:31:47,765 [INFO] log: Logging request info
+2022-04-28 18:31:47,765 [INFO] app: Before Request
+2022-04-28 18:31:47,839 [INFO] app: After Request
+2022-04-28 18:31:47,855 [INFO] log: Logging request info
+2022-04-28 18:31:47,855 [INFO] app: Before Request
+2022-04-28 18:31:47,929 [INFO] app: After Request
+2022-04-28 18:31:47,944 [INFO] log: Logging request info
+2022-04-28 18:31:47,945 [INFO] app: Before Request
+2022-04-28 18:31:48,018 [INFO] app: After Request
+2022-04-28 18:31:48,035 [INFO] log: Logging request info
+2022-04-28 18:31:48,036 [INFO] app: Before Request
+2022-04-28 18:31:48,112 [INFO] app: After Request
+2022-04-28 18:31:48,128 [INFO] log: Logging request info
+2022-04-28 18:31:48,129 [INFO] app: Before Request
+2022-04-28 18:31:48,203 [INFO] app: After Request
+2022-04-28 18:31:48,221 [INFO] log: Logging request info
+2022-04-28 18:31:48,222 [INFO] app: Before Request
+2022-04-28 18:31:48,299 [INFO] app: After Request
+2022-04-28 18:31:48,316 [INFO] log: Logging request info
+2022-04-28 18:31:48,317 [INFO] app: Before Request
+2022-04-28 18:31:48,392 [INFO] app: After Request
+2022-04-28 18:31:48,409 [INFO] log: Logging request info
+2022-04-28 18:31:48,409 [INFO] app: Before Request
+2022-04-28 18:31:48,487 [INFO] app: After Request
+2022-04-28 18:32:09,468 [INFO] app: Before Request
+2022-04-28 18:32:09,476 [INFO] app: Browse page loading
+2022-04-28 18:32:09,515 [INFO] app: After Request
+2022-04-28 18:32:09,517 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 18:32:09] "GET /users HTTP/1.1" 200 -
+2022-04-28 18:32:09,545 [INFO] app: Before Request
+2022-04-28 18:32:09,547 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 18:32:09] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-04-28 18:32:10,563 [INFO] app: Before Request
+2022-04-28 18:32:10,579 [INFO] app: After Request
+2022-04-28 18:32:10,581 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 18:32:10] "GET /songs/upload HTTP/1.1" 200 -
+2022-04-28 18:32:11,883 [INFO] app: Before Request
+2022-04-28 18:32:11,909 [INFO] app: After Request
+2022-04-28 18:32:11,911 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 18:32:11] "GET /songs HTTP/1.1" 200 -
+2022-04-28 18:32:12,585 [INFO] app: Before Request
+2022-04-28 18:32:12,594 [INFO] app: After Request
+2022-04-28 18:32:12,595 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 18:32:12] "GET /songs/upload HTTP/1.1" 200 -
+2022-04-28 18:32:16,861 [INFO] app: Before Request
+2022-04-28 18:32:16,873 [INFO] app: After Request
+2022-04-28 18:32:16,874 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 18:32:16] "GET /welcome HTTP/1.1" 200 -
+2022-04-28 18:32:18,995 [INFO] app: Before Request
+2022-04-28 18:32:19,006 [INFO] app: After Request
+2022-04-28 18:32:19,008 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 18:32:19] "GET /dashboard HTTP/1.1" 200 -
+2022-04-28 18:45:36,641 [INFO] log: Logging request info
+2022-04-28 18:45:36,642 [INFO] app: Before Request
+2022-04-28 18:45:36,719 [INFO] app: After Request
+2022-04-28 18:45:36,736 [INFO] log: Logging request info
+2022-04-28 18:45:36,737 [INFO] app: Before Request
+2022-04-28 18:45:36,737 [INFO] app: After Request
+2022-04-28 18:45:36,739 [INFO] app: Before Request
+2022-04-28 18:45:36,811 [INFO] app: After Request
+2022-04-28 18:45:36,813 [INFO] app: Before Request
+2022-04-28 18:45:36,821 [INFO] app: After Request
+2022-04-28 18:45:36,845 [INFO] log: Logging request info
+2022-04-28 18:45:36,846 [INFO] app: Before Request
+2022-04-28 18:45:36,921 [INFO] app: After Request
+2022-04-28 18:45:36,938 [INFO] log: Logging request info
+2022-04-28 18:45:36,939 [INFO] app: Before Request
+2022-04-28 18:45:37,014 [INFO] app: After Request
+2022-04-28 18:45:37,032 [INFO] log: Logging request info
+2022-04-28 18:45:37,033 [INFO] app: Before Request
+2022-04-28 18:45:37,110 [INFO] app: After Request
+2022-04-28 18:45:37,127 [INFO] log: Logging request info
+2022-04-28 18:45:37,128 [INFO] app: Before Request
+2022-04-28 18:45:37,201 [INFO] app: After Request
+2022-04-28 18:45:37,218 [INFO] log: Logging request info
+2022-04-28 18:45:37,219 [INFO] app: Before Request
+2022-04-28 18:45:37,295 [INFO] app: After Request
+2022-04-28 18:45:37,314 [INFO] log: Logging request info
+2022-04-28 18:45:37,314 [INFO] app: Before Request
+2022-04-28 18:45:37,388 [INFO] app: After Request
+2022-04-28 18:45:37,404 [INFO] log: Logging request info
+2022-04-28 18:45:37,405 [INFO] app: Before Request
+2022-04-28 18:45:37,487 [INFO] app: After Request
+2022-04-28 18:45:37,504 [INFO] log: Logging request info
+2022-04-28 18:45:37,505 [INFO] app: Before Request
+2022-04-28 18:45:37,580 [INFO] app: After Request
+2022-04-28 18:46:35,686 [INFO] werkzeug:  * Detected change in '/home/myuser/tests/simple_pages_test.py', reloading
+2022-04-28 18:51:49,629 [INFO] log: Logging request info
+2022-04-28 18:51:49,630 [INFO] app: Before Request
+2022-04-28 18:51:49,713 [INFO] app: After Request
+2022-04-28 18:51:49,735 [INFO] log: Logging request info
+2022-04-28 18:51:49,736 [INFO] app: Before Request
+2022-04-28 18:51:49,736 [INFO] app: After Request
+2022-04-28 18:51:49,738 [INFO] app: Before Request
+2022-04-28 18:51:49,813 [INFO] app: After Request
+2022-04-28 18:51:49,815 [INFO] app: Before Request
+2022-04-28 18:51:49,822 [INFO] app: After Request
+2022-04-28 18:51:49,847 [INFO] log: Logging request info
+2022-04-28 18:51:49,848 [INFO] app: Before Request
+2022-04-28 18:51:49,923 [INFO] app: After Request
+2022-04-28 18:51:49,943 [INFO] log: Logging request info
+2022-04-28 18:51:49,943 [INFO] app: Before Request
+2022-04-28 18:51:50,017 [INFO] app: After Request
+2022-04-28 18:51:50,036 [INFO] log: Logging request info
+2022-04-28 18:51:50,037 [INFO] app: Before Request
+2022-04-28 18:51:50,113 [INFO] app: After Request
+2022-04-28 18:51:50,132 [INFO] log: Logging request info
+2022-04-28 18:51:50,133 [INFO] app: Before Request
+2022-04-28 18:51:50,207 [INFO] app: After Request
+2022-04-28 18:51:50,225 [INFO] log: Logging request info
+2022-04-28 18:51:50,226 [INFO] app: Before Request
+2022-04-28 18:51:50,300 [INFO] app: After Request
+2022-04-28 18:51:50,319 [INFO] log: Logging request info
+2022-04-28 18:51:50,320 [INFO] app: Before Request
+2022-04-28 18:51:50,394 [INFO] app: After Request
+2022-04-28 18:51:50,413 [INFO] log: Logging request info
+2022-04-28 18:51:50,414 [INFO] app: Before Request
+2022-04-28 18:51:50,490 [INFO] app: After Request
+2022-04-28 18:51:50,508 [INFO] log: Logging request info
+2022-04-28 18:51:50,509 [INFO] app: Before Request
+2022-04-28 18:51:50,583 [INFO] app: After Request
