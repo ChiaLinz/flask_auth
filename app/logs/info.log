@@ -1,0 +1,28 @@
+[2022-04-28 04:52:15,070] 172.22.0.1 requested http://127.0.0.1/
+INFO in __init__: this is the plain message
+[2022-04-28 04:52:18,590] 172.22.0.1 requested http://127.0.0.1/register
+INFO in __init__: this is the plain message
+[2022-04-28 04:52:37,757] 172.22.0.1 requested http://127.0.0.1/login
+INFO in __init__: this is the plain message
+[2022-04-28 04:58:04,347] 172.22.0.1 requested http://127.0.0.1/
+INFO in __init__: this is the plain message
+[2022-04-28 04:58:46,161] 172.22.0.1 requested http://127.0.0.1/login
+INFO in __init__: this is the plain message
+[2022-04-28 05:02:02,900] 172.22.0.1 requested http://127.0.0.1/
+INFO in __init__: this is the plain message
+[2022-04-28 05:02:04,105] 172.22.0.1 requested http://127.0.0.1/login
+INFO in __init__: this is the plain message
+[2022-04-28 05:02:04,703] 172.22.0.1 requested http://127.0.0.1/register
+INFO in __init__: this is the plain message
+[2022-04-28 05:02:14,023] 172.22.0.1 requested http://127.0.0.1/register
+INFO in __init__: this is the plain message
+[2022-04-28 05:02:33,842] 172.22.0.1 requested http://127.0.0.1/register
+INFO in __init__: this is the plain message
+[2022-04-28 05:13:53,501] 172.22.0.1 requested http://127.0.0.1/
+INFO in __init__: this is the plain message
+[2022-04-28 05:13:55,494] 172.22.0.1 requested http://127.0.0.1/profile
+INFO in __init__: this is the plain message
+[2022-04-28 05:21:34,893] 172.22.0.1 requested http://127.0.0.1/
+INFO in __init__: this is the plain message
+[2022-04-28 05:21:37,458] 172.22.0.1 requested http://127.0.0.1/profile
+INFO in __init__: this is the plain message

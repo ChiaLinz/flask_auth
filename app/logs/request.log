@@ -1,0 +1,40 @@
+[2022-04-28 05:15:47,022] [117] 172.22.0.1 requested http://127.0.0.1/
+INFO in __init__: db_dir:/home/myuser/app
+[2022-04-28 05:15:47,111] [117] 172.22.0.1 requested http://127.0.0.1/
+INFO in __init__: requested
+[2022-04-28 05:15:48,931] [117] 172.22.0.1 requested http://127.0.0.1/dashboard
+INFO in __init__: requested
+[2022-04-28 05:15:49,629] [117] 172.22.0.1 requested http://127.0.0.1/songs/upload
+INFO in __init__: requested
+[2022-04-28 05:15:52,133] [117] 172.22.0.1 requested http://127.0.0.1/dashboard
+INFO in __init__: requested
+[2022-04-28 05:15:56,149] [117] 172.22.0.1 requested http://127.0.0.1/profile
+INFO in __init__: requested
+[2022-04-28 05:15:57,307] [117] 172.22.0.1 requested http://127.0.0.1/account
+INFO in __init__: requested
+[2022-04-28 05:15:58,791] [117] 172.22.0.1 requested http://127.0.0.1/logout
+INFO in __init__: requested
+[2022-04-28 05:15:58,802] [117] 172.22.0.1 requested http://127.0.0.1/login
+INFO in __init__: requested
+[2022-04-28 05:15:59,312] [117] 172.22.0.1 requested http://127.0.0.1/login
+INFO in __init__: requested
+[2022-04-28 05:16:00,376] [117] 172.22.0.1 requested http://127.0.0.1/register
+INFO in __init__: requested
+[2022-04-28 05:16:07,437] [117] 172.22.0.1 requested http://127.0.0.1/register
+INFO in __init__: requested
+[2022-04-28 05:16:07,444] [117] 172.22.0.1 requested http://127.0.0.1/login
+INFO in __init__: requested
+[2022-04-28 05:16:13,975] [117] 172.22.0.1 requested http://127.0.0.1/login
+INFO in __init__: requested
+[2022-04-28 05:16:13,987] [117] 172.22.0.1 requested http://127.0.0.1/dashboard
+INFO in __init__: requested
+[2022-04-28 05:16:18,943] [117] 172.22.0.1 requested http://127.0.0.1/dashboard
+INFO in __init__: requested
+[2022-04-28 05:16:19,601] [117] 172.22.0.1 requested http://127.0.0.1/about
+INFO in __init__: requested
+[2022-04-28 05:16:20,069] [117] 172.22.0.1 requested http://127.0.0.1/songs/upload
+INFO in __init__: requested
+[2022-04-28 05:16:20,609] [117] 172.22.0.1 requested http://127.0.0.1/welcome
+INFO in __init__: requested
+[2022-04-28 05:16:28,076] [117] 172.22.0.1 requested http://127.0.0.1/dashboard
+INFO in __init__: requested
