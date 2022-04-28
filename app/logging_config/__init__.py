@@ -38,10 +38,10 @@ def after_request_logging(response):
 @log_con.before_app_first_request
 def configure_logging():
     logging.config.dictConfig(LOGGING_CONFIG)
-    log = logging.getLogger("myApp")
-    log.info("My App Logger first request")
-    log = logging.getLogger("myerrors")
-    log.info("THis broke first")
+    log = logging.getLogger("log")
+    log.info("Logging request info")
+    log = logging.getLogger("log_errors")
+    log.info("Logging error info")
     log = logging.getLogger("request")
     log.info("db_dir:"+config.Config.BASE_DIR)
 
@@ -126,7 +126,7 @@ LOGGING_CONFIG = {
         'werkzeug': {  # if __name__ == '__main__'
             'handlers': ['file.handler.werkzeug'],
             'level': 'DEBUG',
-            'propagate': False
+            'propagate': True
         },
         'sqlalchemy.engine': {  # if __name__ == '__main__'
             'handlers': ['file.handler.sqlalchemy'],
@@ -138,7 +138,7 @@ LOGGING_CONFIG = {
             'level': 'DEBUG',
             'propagate': False
         },
-        'myerrors': {  # if __name__ == '__main__'
+        'log_errors': {  # if __name__ == '__main__'
             'handlers': ['file.handler.errors'],
             'level': 'DEBUG',
             'propagate': False
