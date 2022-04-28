@@ -248,3 +248,236 @@
 2022-04-28 18:51:50,508 [INFO] log: Logging request info
 2022-04-28 18:51:50,509 [INFO] app: Before Request
 2022-04-28 18:51:50,583 [INFO] app: After Request
+2022-04-28 19:10:22,887 [INFO] log: Logging request info
+2022-04-28 19:10:22,888 [INFO] app: Before Request
+2022-04-28 19:10:23,026 [INFO] app: After Request
+2022-04-28 19:10:23,028 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 19:10:23] "GET /songs HTTP/1.1" 200 -
+2022-04-28 19:10:23,961 [INFO] app: Before Request
+2022-04-28 19:10:23,973 [INFO] app: After Request
+2022-04-28 19:10:23,974 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 19:10:23] "GET /dashboard HTTP/1.1" 200 -
+2022-04-28 19:10:25,215 [INFO] app: Before Request
+2022-04-28 19:10:25,234 [INFO] app: After Request
+2022-04-28 19:10:25,235 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 19:10:25] "GET /songs HTTP/1.1" 200 -
+2022-04-28 19:10:26,035 [INFO] app: Before Request
+2022-04-28 19:10:26,048 [INFO] app: After Request
+2022-04-28 19:10:26,050 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 19:10:26] "GET /songs/upload HTTP/1.1" 200 -
+2022-04-28 19:10:26,763 [INFO] app: Before Request
+2022-04-28 19:10:26,770 [INFO] app: Browse page loading
+2022-04-28 19:10:26,777 [INFO] app: After Request
+2022-04-28 19:10:26,779 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 19:10:26] "GET /users HTTP/1.1" 200 -
+2022-04-28 19:10:26,807 [INFO] app: Before Request
+2022-04-28 19:10:26,809 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 19:10:26] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-04-28 19:10:28,059 [INFO] app: Before Request
+2022-04-28 19:10:28,071 [INFO] app: After Request
+2022-04-28 19:10:28,073 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 19:10:28] "GET /about HTTP/1.1" 200 -
+2022-04-28 19:10:28,831 [INFO] app: Before Request
+2022-04-28 19:10:28,844 [INFO] app: After Request
+2022-04-28 19:10:28,845 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 19:10:28] "GET /welcome HTTP/1.1" 200 -
+2022-04-28 19:10:29,982 [INFO] app: Before Request
+2022-04-28 19:10:29,990 [INFO] app: After Request
+2022-04-28 19:10:29,992 [INFO] werkzeug: 172.22.0.1 - - [28/Apr/2022 19:10:29] "GET /about HTTP/1.1" 200 -
+2022-04-28 19:11:39,327 [INFO] werkzeug:  * Detected change in '/home/myuser/tests/simple_pages_test.py', reloading
+2022-04-28 19:24:22,425 [INFO] log: Logging request info
+2022-04-28 19:24:22,426 [INFO] app: Before Request
+2022-04-28 19:24:22,502 [INFO] app: After Request
+2022-04-28 19:24:22,522 [INFO] log: Logging request info
+2022-04-28 19:24:22,523 [INFO] app: Before Request
+2022-04-28 19:24:22,524 [INFO] app: After Request
+2022-04-28 19:24:22,525 [INFO] app: Before Request
+2022-04-28 19:24:22,599 [INFO] app: After Request
+2022-04-28 19:24:22,601 [INFO] app: Before Request
+2022-04-28 19:24:22,608 [INFO] app: After Request
+2022-04-28 19:24:22,633 [INFO] log: Logging request info
+2022-04-28 19:24:22,634 [INFO] app: Before Request
+2022-04-28 19:24:22,707 [INFO] app: After Request
+2022-04-28 19:24:22,727 [INFO] log: Logging request info
+2022-04-28 19:24:22,727 [INFO] app: Before Request
+2022-04-28 19:24:22,805 [INFO] app: After Request
+2022-04-28 19:24:22,823 [INFO] log: Logging request info
+2022-04-28 19:24:22,824 [INFO] app: Before Request
+2022-04-28 19:24:22,898 [INFO] app: After Request
+2022-04-28 19:24:22,916 [INFO] log: Logging request info
+2022-04-28 19:24:22,917 [INFO] app: Before Request
+2022-04-28 19:24:22,990 [INFO] app: After Request
+2022-04-28 19:24:23,008 [INFO] log: Logging request info
+2022-04-28 19:24:23,009 [INFO] app: Before Request
+2022-04-28 19:24:23,082 [INFO] app: After Request
+2022-04-28 19:24:23,101 [INFO] log: Logging request info
+2022-04-28 19:24:23,102 [INFO] app: Before Request
+2022-04-28 19:24:23,175 [INFO] app: After Request
+2022-04-28 19:24:23,194 [INFO] log: Logging request info
+2022-04-28 19:24:23,194 [INFO] app: Before Request
+2022-04-28 19:24:23,268 [INFO] app: After Request
+2022-04-28 19:24:23,289 [INFO] log: Logging request info
+2022-04-28 19:24:23,290 [INFO] app: Before Request
+2022-04-28 19:24:23,363 [INFO] app: After Request
+2022-04-28 19:24:28,204 [INFO] log: Logging request info
+2022-04-28 19:24:28,205 [INFO] app: Before Request
+2022-04-28 19:24:28,286 [INFO] app: After Request
+2022-04-28 19:24:28,306 [INFO] log: Logging request info
+2022-04-28 19:24:28,307 [INFO] app: Before Request
+2022-04-28 19:24:28,308 [INFO] app: After Request
+2022-04-28 19:24:28,309 [INFO] app: Before Request
+2022-04-28 19:24:28,384 [INFO] app: After Request
+2022-04-28 19:24:28,386 [INFO] app: Before Request
+2022-04-28 19:24:28,394 [INFO] app: After Request
+2022-04-28 19:24:28,420 [INFO] log: Logging request info
+2022-04-28 19:24:28,421 [INFO] app: Before Request
+2022-04-28 19:24:28,496 [INFO] app: After Request
+2022-04-28 19:24:28,515 [INFO] log: Logging request info
+2022-04-28 19:24:28,516 [INFO] app: Before Request
+2022-04-28 19:24:28,590 [INFO] app: After Request
+2022-04-28 19:24:28,609 [INFO] log: Logging request info
+2022-04-28 19:24:28,610 [INFO] app: Before Request
+2022-04-28 19:24:28,683 [INFO] app: After Request
+2022-04-28 19:24:28,702 [INFO] log: Logging request info
+2022-04-28 19:24:28,703 [INFO] app: Before Request
+2022-04-28 19:24:28,797 [INFO] app: After Request
+2022-04-28 19:24:28,816 [INFO] log: Logging request info
+2022-04-28 19:24:28,817 [INFO] app: Before Request
+2022-04-28 19:24:28,890 [INFO] app: After Request
+2022-04-28 19:24:28,909 [INFO] log: Logging request info
+2022-04-28 19:24:28,910 [INFO] app: Before Request
+2022-04-28 19:24:28,982 [INFO] app: After Request
+2022-04-28 19:24:29,001 [INFO] log: Logging request info
+2022-04-28 19:24:29,002 [INFO] app: Before Request
+2022-04-28 19:24:29,074 [INFO] app: After Request
+2022-04-28 19:24:29,093 [INFO] log: Logging request info
+2022-04-28 19:24:29,093 [INFO] app: Before Request
+2022-04-28 19:24:29,168 [INFO] app: After Request
+2022-04-28 19:25:44,355 [INFO] log: Logging request info
+2022-04-28 19:25:44,356 [INFO] app: Before Request
+2022-04-28 19:25:44,431 [INFO] app: After Request
+2022-04-28 19:25:44,450 [INFO] log: Logging request info
+2022-04-28 19:25:44,450 [INFO] app: Before Request
+2022-04-28 19:25:44,451 [INFO] app: After Request
+2022-04-28 19:25:44,452 [INFO] app: Before Request
+2022-04-28 19:25:44,528 [INFO] app: After Request
+2022-04-28 19:25:44,530 [INFO] app: Before Request
+2022-04-28 19:25:44,538 [INFO] app: After Request
+2022-04-28 19:25:44,563 [INFO] log: Logging request info
+2022-04-28 19:25:44,563 [INFO] app: Before Request
+2022-04-28 19:25:44,637 [INFO] app: After Request
+2022-04-28 19:25:44,655 [INFO] log: Logging request info
+2022-04-28 19:25:44,656 [INFO] app: Before Request
+2022-04-28 19:25:44,729 [INFO] app: After Request
+2022-04-28 19:25:44,751 [INFO] log: Logging request info
+2022-04-28 19:25:44,752 [INFO] app: Before Request
+2022-04-28 19:25:44,844 [INFO] app: After Request
+2022-04-28 19:25:44,863 [INFO] log: Logging request info
+2022-04-28 19:25:44,864 [INFO] app: Before Request
+2022-04-28 19:25:44,940 [INFO] app: After Request
+2022-04-28 19:25:44,959 [INFO] log: Logging request info
+2022-04-28 19:25:44,960 [INFO] app: Before Request
+2022-04-28 19:25:45,035 [INFO] app: After Request
+2022-04-28 19:25:45,055 [INFO] log: Logging request info
+2022-04-28 19:25:45,056 [INFO] app: Before Request
+2022-04-28 19:25:45,129 [INFO] app: After Request
+2022-04-28 19:25:45,149 [INFO] log: Logging request info
+2022-04-28 19:25:45,150 [INFO] app: Before Request
+2022-04-28 19:25:45,224 [INFO] app: After Request
+2022-04-28 19:25:45,244 [INFO] log: Logging request info
+2022-04-28 19:25:45,245 [INFO] app: Before Request
+2022-04-28 19:25:45,332 [INFO] app: After Request
+2022-04-28 19:26:01,337 [INFO] log: Logging request info
+2022-04-28 19:26:01,338 [INFO] app: Before Request
+2022-04-28 19:26:01,415 [INFO] app: After Request
+2022-04-28 19:26:01,434 [INFO] log: Logging request info
+2022-04-28 19:26:01,434 [INFO] app: Before Request
+2022-04-28 19:26:01,435 [INFO] app: After Request
+2022-04-28 19:26:01,436 [INFO] app: Before Request
+2022-04-28 19:26:01,511 [INFO] app: After Request
+2022-04-28 19:26:01,512 [INFO] app: Before Request
+2022-04-28 19:26:01,520 [INFO] app: After Request
+2022-04-28 19:26:01,544 [INFO] log: Logging request info
+2022-04-28 19:26:01,545 [INFO] app: Before Request
+2022-04-28 19:26:01,621 [INFO] app: After Request
+2022-04-28 19:26:01,640 [INFO] log: Logging request info
+2022-04-28 19:26:01,640 [INFO] app: Before Request
+2022-04-28 19:26:01,713 [INFO] app: After Request
+2022-04-28 19:26:01,732 [INFO] log: Logging request info
+2022-04-28 19:26:01,733 [INFO] app: Before Request
+2022-04-28 19:26:01,809 [INFO] app: After Request
+2022-04-28 19:26:01,829 [INFO] log: Logging request info
+2022-04-28 19:26:01,830 [INFO] app: Before Request
+2022-04-28 19:26:01,905 [INFO] app: After Request
+2022-04-28 19:26:01,925 [INFO] log: Logging request info
+2022-04-28 19:26:01,925 [INFO] app: Before Request
+2022-04-28 19:26:02,000 [INFO] app: After Request
+2022-04-28 19:26:02,018 [INFO] log: Logging request info
+2022-04-28 19:26:02,019 [INFO] app: Before Request
+2022-04-28 19:26:02,091 [INFO] app: After Request
+2022-04-28 19:26:02,112 [INFO] log: Logging request info
+2022-04-28 19:26:02,113 [INFO] app: Before Request
+2022-04-28 19:26:02,186 [INFO] app: After Request
+2022-04-28 19:26:02,206 [INFO] log: Logging request info
+2022-04-28 19:26:02,207 [INFO] app: Before Request
+2022-04-28 19:26:02,280 [INFO] app: After Request
+2022-04-28 19:27:10,924 [INFO] log: Logging request info
+2022-04-28 19:27:10,925 [INFO] app: Before Request
+2022-04-28 19:27:11,001 [INFO] app: After Request
+2022-04-28 19:27:11,021 [INFO] log: Logging request info
+2022-04-28 19:27:11,022 [INFO] app: Before Request
+2022-04-28 19:27:11,022 [INFO] app: After Request
+2022-04-28 19:27:11,024 [INFO] app: Before Request
+2022-04-28 19:27:11,096 [INFO] app: After Request
+2022-04-28 19:27:11,098 [INFO] app: Before Request
+2022-04-28 19:27:11,105 [INFO] app: After Request
+2022-04-28 19:27:11,129 [INFO] log: Logging request info
+2022-04-28 19:27:11,130 [INFO] app: Before Request
+2022-04-28 19:27:11,203 [INFO] app: After Request
+2022-04-28 19:27:11,222 [INFO] log: Logging request info
+2022-04-28 19:27:11,222 [INFO] app: Before Request
+2022-04-28 19:27:11,295 [INFO] app: After Request
+2022-04-28 19:27:11,315 [INFO] log: Logging request info
+2022-04-28 19:27:11,316 [INFO] app: Before Request
+2022-04-28 19:27:11,389 [INFO] app: After Request
+2022-04-28 19:27:11,408 [INFO] log: Logging request info
+2022-04-28 19:27:11,408 [INFO] app: Before Request
+2022-04-28 19:27:11,482 [INFO] app: After Request
+2022-04-28 19:27:11,500 [INFO] log: Logging request info
+2022-04-28 19:27:11,501 [INFO] app: Before Request
+2022-04-28 19:27:11,577 [INFO] app: After Request
+2022-04-28 19:27:11,597 [INFO] log: Logging request info
+2022-04-28 19:27:11,598 [INFO] app: Before Request
+2022-04-28 19:27:11,672 [INFO] app: After Request
+2022-04-28 19:27:11,690 [INFO] log: Logging request info
+2022-04-28 19:27:11,691 [INFO] app: Before Request
+2022-04-28 19:27:11,764 [INFO] app: After Request
+2022-04-28 19:27:11,783 [INFO] log: Logging request info
+2022-04-28 19:27:11,783 [INFO] app: Before Request
+2022-04-28 19:27:11,856 [INFO] app: After Request
+2022-04-28 19:27:16,683 [INFO] log: Logging request info
+2022-04-28 19:27:16,684 [INFO] app: Before Request
+2022-04-28 19:27:16,765 [INFO] app: After Request
+2022-04-28 19:27:16,787 [INFO] log: Logging request info
+2022-04-28 19:27:16,788 [INFO] app: Before Request
+2022-04-28 19:27:16,788 [INFO] app: After Request
+2022-04-28 19:27:16,790 [INFO] app: Before Request
+2022-04-28 19:27:16,862 [INFO] app: After Request
+2022-04-28 19:27:16,864 [INFO] app: Before Request
+2022-04-28 19:27:16,871 [INFO] app: After Request
+2022-04-28 19:27:16,895 [INFO] log: Logging request info
+2022-04-28 19:27:16,896 [INFO] app: Before Request
+2022-04-28 19:27:16,969 [INFO] app: After Request
+2022-04-28 19:27:16,988 [INFO] log: Logging request info
+2022-04-28 19:27:16,989 [INFO] app: Before Request
+2022-04-28 19:27:17,061 [INFO] app: After Request
+2022-04-28 19:27:17,080 [INFO] log: Logging request info
+2022-04-28 19:27:17,081 [INFO] app: Before Request
+2022-04-28 19:27:17,155 [INFO] app: After Request
+2022-04-28 19:27:17,174 [INFO] log: Logging request info
+2022-04-28 19:27:17,175 [INFO] app: Before Request
+2022-04-28 19:27:17,249 [INFO] app: After Request
+2022-04-28 19:27:17,269 [INFO] log: Logging request info
+2022-04-28 19:27:17,269 [INFO] app: Before Request
+2022-04-28 19:27:17,345 [INFO] app: After Request
+2022-04-28 19:27:17,363 [INFO] log: Logging request info
+2022-04-28 19:27:17,364 [INFO] app: Before Request
+2022-04-28 19:27:17,437 [INFO] app: After Request
+2022-04-28 19:27:17,457 [INFO] log: Logging request info
+2022-04-28 19:27:17,458 [INFO] app: Before Request
+2022-04-28 19:27:17,531 [INFO] app: After Request
+2022-04-28 19:27:17,549 [INFO] log: Logging request info
+2022-04-28 19:27:17,550 [INFO] app: Before Request
+2022-04-28 19:27:17,623 [INFO] app: After Request
