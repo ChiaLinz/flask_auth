@@ -13,6 +13,7 @@ def create_database():
     # set the name of the apps log folder to logs
     dbdir = os.path.join(root, '../../database')
     # make a directory if it doesn't exist
+    print(dbdir)
     if not os.path.exists(dbdir):
         os.mkdir(dbdir)
     db.create_all()
