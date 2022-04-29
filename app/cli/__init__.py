@@ -11,7 +11,7 @@ def create_database():
     # get root directory of project
     root = os.path.dirname(os.path.abspath(__file__))
     # set the name of the apps log folder to logs
-    dbdir = os.path.join(root, '../../database')
+    dbdir = os.path.join(root, '../database')
     # make a directory if it doesn't exist
     print(dbdir)
     if not os.path.exists(dbdir):
@@ -27,5 +27,6 @@ def create_log_folder():
     # set the name of the apps log folder to logs
     logdir = os.path.join(root, '../logs')
     # make a directory if it doesn't exist
+    print(logdir)
     if not os.path.exists(logdir):
         os.mkdir(logdir)

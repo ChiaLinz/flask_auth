@@ -18,10 +18,12 @@ def application():
         yield application
         db.session.remove()
 
+
 @pytest.fixture()
 def client(application):
     """This makes the http client"""
     return application.test_client()
+
 
 @pytest.fixture()
 def runner(application):
