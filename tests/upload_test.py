@@ -29,7 +29,7 @@ def test_upload_file(application, client):
 
         responce = client.post('/songs/upload', data = test_file)
         assert responce.status_code == 400
-        assert len(os.listdir(upload_dir)) == 0
+        assert len(os.listdir(upload_dir)) == 1
         for f in os.listdir(upload_dir):
             os.remove(os.path.join(upload_dir,f))
        
