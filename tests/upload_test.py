@@ -1,8 +1,4 @@
-import logging
 import os
-
-from app import db
-from app.db.models import User, Song
 
 def test_upload_file(application, client):
 
@@ -14,13 +10,13 @@ def test_upload_file(application, client):
         }
         client.post("/register", data=data)
 
-        data_test_1 ={
+        data2 ={
             'email': '123@gmail.com',
             'password': '123456'
 
         }
 
-        client.post("/login",data = data_test_1)
+        client.post("/login",data = data2)
         root = os.path.dirname(os.path.abspath(__file__))
         testdir = os.path.join(root, '../tests')
         assert os.path.exists(testdir) == True
@@ -28,12 +24,10 @@ def test_upload_file(application, client):
         test_file = os.path.join(testdir, 'test.csv')
         assert os.path.exists(test_file) == True
         upload_dir = os.path.join(root, '../app/uploads')
-        assert os.path.exists(upload_dir)
+        assert os.path.exists(upload_dir) == True
 
-        data_test_2 ={
-            'file' : open(test_file,'rb')
-        }
-        responce = client.post('/songs/upload', data = data_test_2)
+
+        responce = client.post('/songs/upload', data = test_file)
         assert responce.status_code == 400
         assert len(os.listdir(upload_dir)) == 0
         for f in os.listdir(upload_dir):
