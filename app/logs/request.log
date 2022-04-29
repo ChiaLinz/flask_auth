@@ -690,3 +690,147 @@ INFO in __init__: requested
 INFO in __init__: db_dir:/home/myuser/app
 [2022-04-28 19:35:21,217] [115] 127.0.0.1 requested http://localhost/page5
 INFO in __init__: requested
+[2022-04-28 21:01:54,459] [9] 172.22.0.1 requested http://127.0.0.1/
+INFO in __init__: db_dir:/home/myuser/app
+[2022-04-28 21:01:54,555] [9] 172.22.0.1 requested http://127.0.0.1/
+INFO in __init__: requested
+[2022-04-28 21:01:55,449] [9] 172.22.0.1 requested http://127.0.0.1/songs/upload
+INFO in __init__: requested
+[2022-04-28 21:01:55,964] [9] 172.22.0.1 requested http://127.0.0.1/songs
+INFO in __init__: requested
+[2022-04-28 22:01:27,463] [9] 172.22.0.1 requested http://127.0.0.1/
+INFO in __init__: requested
+[2022-04-28 22:01:28,840] [9] 172.22.0.1 requested http://127.0.0.1/songs
+INFO in __init__: requested
+[2022-04-28 22:01:29,496] [9] 172.22.0.1 requested http://127.0.0.1/dashboard
+INFO in __init__: requested
+[2022-04-28 22:02:54,128] [9] 172.22.0.1 requested http://127.0.0.1/dashboard
+INFO in __init__: requested
+[2022-04-28 22:02:57,228] [9] 172.22.0.1 requested http://127.0.0.1/about
+INFO in __init__: requested
+[2022-04-28 22:02:57,759] [9] 172.22.0.1 requested http://127.0.0.1/welcome
+INFO in __init__: requested
+[2022-04-28 22:02:58,238] [9] 172.22.0.1 requested http://127.0.0.1/users
+INFO in __init__: requested
+[2022-04-28 22:02:58,749] [9] 172.22.0.1 requested http://127.0.0.1/songs/upload
+INFO in __init__: requested
+[2022-04-28 22:02:59,271] [9] 172.22.0.1 requested http://127.0.0.1/songs/upload
+INFO in __init__: requested
+[2022-04-28 22:02:59,629] [9] 172.22.0.1 requested http://127.0.0.1/songs
+INFO in __init__: requested
+[2022-04-28 22:03:00,570] [9] 172.22.0.1 requested http://127.0.0.1/welcome
+INFO in __init__: requested
+[2022-04-28 22:03:00,920] [9] 172.22.0.1 requested http://127.0.0.1/about
+INFO in __init__: requested
+[2022-04-28 22:03:01,224] [9] 172.22.0.1 requested http://127.0.0.1/users
+INFO in __init__: requested
+[2022-04-28 22:03:02,587] [9] 172.22.0.1 requested http://127.0.0.1/users/new
+INFO in __init__: requested
+[2022-04-28 22:03:04,779] [9] 172.22.0.1 requested http://127.0.0.1/users/1/delete
+INFO in __init__: requested
+[2022-04-28 22:03:04,802] [9] 172.22.0.1 requested http://127.0.0.1/users
+INFO in __init__: requested
+[2022-04-28 22:03:07,548] [9] 172.22.0.1 requested http://127.0.0.1/users/2/delete
+INFO in __init__: requested
+[2022-04-28 22:03:07,569] [9] 172.22.0.1 requested http://127.0.0.1/users
+INFO in __init__: requested
+[2022-04-28 22:03:08,579] [9] 172.22.0.1 requested http://127.0.0.1/users/new
+INFO in __init__: requested
+[2022-04-28 22:03:16,346] [9] 172.22.0.1 requested http://127.0.0.1/users/new
+INFO in __init__: requested
+[2022-04-28 22:03:20,767] [9] 172.22.0.1 requested http://127.0.0.1/users/new
+INFO in __init__: requested
+[2022-04-28 22:03:20,784] [9] 172.22.0.1 requested http://127.0.0.1/users
+INFO in __init__: requested
+[2022-04-28 22:03:23,617] [9] 172.22.0.1 requested http://127.0.0.1/users/2/edit
+INFO in __init__: requested
+[2022-04-28 22:03:25,027] [9] 172.22.0.1 requested http://127.0.0.1/users
+INFO in __init__: requested
+[2022-04-28 22:03:26,165] [9] 172.22.0.1 requested http://127.0.0.1/users/1/edit
+INFO in __init__: requested
+[2022-04-28 22:03:27,124] [9] 172.22.0.1 requested http://127.0.0.1/users/1/edit
+INFO in __init__: requested
+[2022-04-28 22:03:27,608] [9] 172.22.0.1 requested http://127.0.0.1/users/1/edit
+INFO in __init__: requested
+[2022-04-28 22:03:30,175] [9] 172.22.0.1 requested http://127.0.0.1/users/2
+INFO in __init__: requested
+[2022-04-28 22:03:31,642] [9] 172.22.0.1 requested http://127.0.0.1/songs
+INFO in __init__: requested
+[2022-04-28 22:03:32,143] [9] 172.22.0.1 requested http://127.0.0.1/songs/upload
+INFO in __init__: requested
+[2022-04-28 22:03:34,299] [9] 172.22.0.1 requested http://127.0.0.1/welcome
+INFO in __init__: requested
+[2022-04-28 22:03:34,777] [9] 172.22.0.1 requested http://127.0.0.1/users
+INFO in __init__: requested
+[2022-04-28 22:03:35,210] [9] 172.22.0.1 requested http://127.0.0.1/users
+INFO in __init__: requested
+[2022-04-28 22:03:35,709] [9] 172.22.0.1 requested http://127.0.0.1/users
+INFO in __init__: requested
+[2022-04-29 01:55:17,854] [8] 172.22.0.1 requested http://127.0.0.1/
+INFO in __init__: db_dir:/home/myuser/app
+[2022-04-29 01:55:17,974] [8] 172.22.0.1 requested http://127.0.0.1/
+INFO in __init__: requested
+[2022-04-29 01:55:19,322] [8] 172.22.0.1 requested http://127.0.0.1/about
+INFO in __init__: requested
+[2022-04-29 01:55:19,736] [8] 172.22.0.1 requested http://127.0.0.1/users
+INFO in __init__: requested
+[2022-04-29 01:55:20,011] [8] 172.22.0.1 requested http://127.0.0.1/songs/upload
+INFO in __init__: requested
+[2022-04-29 01:55:20,372] [8] 172.22.0.1 requested http://127.0.0.1/songs
+INFO in __init__: requested
+[2022-04-29 01:55:20,713] [8] 172.22.0.1 requested http://127.0.0.1/dashboard
+INFO in __init__: requested
+[2022-04-29 01:56:11,854] [8] 172.22.0.1 requested http://127.0.0.1/songs/upload
+INFO in __init__: requested
+[2022-04-29 01:56:12,320] [8] 172.22.0.1 requested http://127.0.0.1/songs
+INFO in __init__: requested
+[2022-04-29 01:58:47,039] [8] 172.22.0.1 requested http://127.0.0.1/
+INFO in __init__: db_dir:/home/myuser/app
+[2022-04-29 01:58:47,132] [8] 172.22.0.1 requested http://127.0.0.1/
+INFO in __init__: requested
+[2022-04-29 01:58:48,620] [8] 172.22.0.1 requested http://127.0.0.1/welcome
+INFO in __init__: requested
+[2022-04-29 01:59:14,187] [28] 127.0.0.1 requested http://localhost/
+INFO in __init__: db_dir:/home/myuser/app
+[2022-04-29 01:59:14,264] [28] 127.0.0.1 requested http://localhost/
+INFO in __init__: requested
+[2022-04-29 01:59:14,283] [28] 127.0.0.1 requested http://localhost/dashboard
+INFO in __init__: db_dir:/home/myuser/app
+[2022-04-29 01:59:14,284] [28] 127.0.0.1 requested http://localhost/dashboard
+INFO in __init__: requested
+[2022-04-29 01:59:14,400] [28] 127.0.0.1 requested http://localhost/register
+INFO in __init__: requested
+[2022-04-29 01:59:14,413] [28] 127.0.0.1 requested http://localhost/login
+INFO in __init__: requested
+[2022-04-29 01:59:14,483] [28] 127.0.0.1 requested http://localhost/
+INFO in __init__: db_dir:/home/myuser/app
+[2022-04-29 01:59:14,557] [28] 127.0.0.1 requested http://localhost/
+INFO in __init__: requested
+[2022-04-29 01:59:14,575] [28] 127.0.0.1 requested http://localhost/
+INFO in __init__: db_dir:/home/myuser/app
+[2022-04-29 01:59:14,649] [28] 127.0.0.1 requested http://localhost/
+INFO in __init__: requested
+[2022-04-29 01:59:14,669] [28] 127.0.0.1 requested http://localhost/
+INFO in __init__: db_dir:/home/myuser/app
+[2022-04-29 01:59:14,745] [28] 127.0.0.1 requested http://localhost/
+INFO in __init__: requested
+[2022-04-29 01:59:14,764] [28] 127.0.0.1 requested http://localhost/
+INFO in __init__: db_dir:/home/myuser/app
+[2022-04-29 01:59:14,837] [28] 127.0.0.1 requested http://localhost/
+INFO in __init__: requested
+[2022-04-29 01:59:14,857] [28] 127.0.0.1 requested http://localhost/
+INFO in __init__: db_dir:/home/myuser/app
+[2022-04-29 01:59:14,930] [28] 127.0.0.1 requested http://localhost/
+INFO in __init__: requested
+[2022-04-29 01:59:14,948] [28] 127.0.0.1 requested http://localhost/about
+INFO in __init__: db_dir:/home/myuser/app
+[2022-04-29 01:59:15,027] [28] 127.0.0.1 requested http://localhost/about
+INFO in __init__: requested
+[2022-04-29 01:59:15,046] [28] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: db_dir:/home/myuser/app
+[2022-04-29 01:59:15,122] [28] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: requested
+[2022-04-29 01:59:15,141] [28] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: db_dir:/home/myuser/app
+[2022-04-29 01:59:15,219] [28] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: requested
