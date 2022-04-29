@@ -1,6 +1,7 @@
 import logging
 from flask import has_request_context, request
 
+
 class RequestFormatter(logging.Formatter):
     def format(self, record):
         if has_request_context():

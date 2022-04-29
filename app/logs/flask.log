@@ -824,3 +824,64 @@
 2022-04-29 01:59:15,141 [INFO] log: Logging request info
 2022-04-29 01:59:15,142 [INFO] app: Before Request
 2022-04-29 01:59:15,218 [INFO] app: After Request
+2022-04-29 02:06:15,569 [INFO] log: Logging request info
+2022-04-29 02:06:15,570 [INFO] app: Before Request
+2022-04-29 02:06:15,668 [INFO] app: After Request
+2022-04-29 02:06:15,670 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 02:06:15] "GET / HTTP/1.1" 200 -
+2022-04-29 02:06:17,259 [INFO] app: Before Request
+2022-04-29 02:06:17,275 [INFO] app: After Request
+2022-04-29 02:06:17,277 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 02:06:17] "GET /welcome HTTP/1.1" 200 -
+2022-04-29 02:06:17,759 [INFO] app: Before Request
+2022-04-29 02:06:17,766 [INFO] app: Browse page loading
+2022-04-29 02:06:17,808 [INFO] app: After Request
+2022-04-29 02:06:17,810 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 02:06:17] "GET /users HTTP/1.1" 200 -
+2022-04-29 02:06:17,838 [INFO] app: Before Request
+2022-04-29 02:06:17,839 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 02:06:17] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-04-29 02:06:18,445 [INFO] app: Before Request
+2022-04-29 02:06:18,460 [INFO] app: After Request
+2022-04-29 02:06:18,462 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 02:06:18] "GET /about HTTP/1.1" 200 -
+2022-04-29 02:06:19,363 [INFO] app: Before Request
+2022-04-29 02:06:19,371 [INFO] app: Browse page loading
+2022-04-29 02:06:19,375 [INFO] app: After Request
+2022-04-29 02:06:19,377 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 02:06:19] "GET /users HTTP/1.1" 200 -
+2022-04-29 02:06:19,402 [INFO] app: Before Request
+2022-04-29 02:06:19,403 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 02:06:19] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-04-29 02:32:11,253 [INFO] log: Logging request info
+2022-04-29 02:32:11,254 [INFO] app: Before Request
+2022-04-29 02:32:11,351 [INFO] app: After Request
+2022-04-29 02:32:11,353 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 02:32:11] "GET / HTTP/1.1" 200 -
+2022-04-29 02:41:29,253 [INFO] werkzeug:  * Detected change in '/home/myuser/app/logging_config/log_formatters/__init__.py', reloading
+2022-04-29 02:41:53,765 [INFO] log: Logging request info
+2022-04-29 02:41:53,766 [INFO] app: Before Request
+2022-04-29 02:41:53,844 [INFO] app: After Request
+2022-04-29 02:41:53,864 [INFO] log: Logging request info
+2022-04-29 02:41:53,865 [INFO] app: Before Request
+2022-04-29 02:41:53,865 [INFO] app: After Request
+2022-04-29 02:41:53,867 [INFO] app: Before Request
+2022-04-29 02:41:53,950 [INFO] app: After Request
+2022-04-29 02:41:53,952 [INFO] app: Before Request
+2022-04-29 02:41:53,959 [INFO] app: After Request
+2022-04-29 02:41:54,028 [INFO] log: Logging request info
+2022-04-29 02:41:54,029 [INFO] app: Before Request
+2022-04-29 02:41:54,103 [INFO] app: After Request
+2022-04-29 02:41:54,122 [INFO] log: Logging request info
+2022-04-29 02:41:54,123 [INFO] app: Before Request
+2022-04-29 02:41:54,198 [INFO] app: After Request
+2022-04-29 02:41:54,217 [INFO] log: Logging request info
+2022-04-29 02:41:54,218 [INFO] app: Before Request
+2022-04-29 02:41:54,291 [INFO] app: After Request
+2022-04-29 02:41:54,310 [INFO] log: Logging request info
+2022-04-29 02:41:54,311 [INFO] app: Before Request
+2022-04-29 02:41:54,385 [INFO] app: After Request
+2022-04-29 02:41:54,403 [INFO] log: Logging request info
+2022-04-29 02:41:54,404 [INFO] app: Before Request
+2022-04-29 02:41:54,478 [INFO] app: After Request
+2022-04-29 02:41:54,497 [INFO] log: Logging request info
+2022-04-29 02:41:54,498 [INFO] app: Before Request
+2022-04-29 02:41:54,574 [INFO] app: After Request
+2022-04-29 02:41:54,594 [INFO] log: Logging request info
+2022-04-29 02:41:54,595 [INFO] app: Before Request
+2022-04-29 02:41:54,669 [INFO] app: After Request
+2022-04-29 02:41:54,689 [INFO] log: Logging request info
+2022-04-29 02:41:54,690 [INFO] app: Before Request
+2022-04-29 02:41:54,769 [INFO] app: After Request

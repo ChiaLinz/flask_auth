@@ -197,3 +197,12 @@
 2022-04-29 01:58:47,134 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 01:58:47] "GET / HTTP/1.1" 200 -
 2022-04-29 01:58:48,621 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 01:58:48] "GET /welcome HTTP/1.1" 200 -
 2022-04-29 01:59:10,348 [INFO] werkzeug:  * Detected change in '/home/myuser/tests/user_test.py', reloading
+2022-04-29 02:06:15,670 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 02:06:15] "GET / HTTP/1.1" 200 -
+2022-04-29 02:06:17,277 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 02:06:17] "GET /welcome HTTP/1.1" 200 -
+2022-04-29 02:06:17,810 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 02:06:17] "GET /users HTTP/1.1" 200 -
+2022-04-29 02:06:17,839 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 02:06:17] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-04-29 02:06:18,462 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 02:06:18] "GET /about HTTP/1.1" 200 -
+2022-04-29 02:06:19,377 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 02:06:19] "GET /users HTTP/1.1" 200 -
+2022-04-29 02:06:19,403 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 02:06:19] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-04-29 02:32:11,353 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 02:32:11] "GET / HTTP/1.1" 200 -
+2022-04-29 02:41:29,253 [INFO] werkzeug:  * Detected change in '/home/myuser/app/logging_config/log_formatters/__init__.py', reloading
