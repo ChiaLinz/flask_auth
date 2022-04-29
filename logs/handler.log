@@ -29,3 +29,20 @@
 2022-04-29 23:02:12,427 [INFO] flask_wtf.csrf: The CSRF token is missing.
 2022-04-29 23:02:12,428 [INFO] flask_wtf.csrf: The CSRF token is missing.
 2022-04-29 23:02:12,432 [INFO] flask_wtf.csrf: The CSRF token is missing.
+2022-04-29 23:03:51,086 [INFO] flask_wtf.csrf: The CSRF token is missing.
+2022-04-29 23:03:51,087 [INFO] flask_wtf.csrf: The CSRF token is missing.
+2022-04-29 23:04:07,270 [INFO] flask_wtf.csrf: The CSRF token is missing.
+2022-04-29 23:04:07,271 [INFO] flask_wtf.csrf: The CSRF token is missing.
+2022-04-29 23:04:07,274 [INFO] flask_wtf.csrf: The CSRF token is missing.
+2022-04-29 23:06:10,373 [INFO] app: Info level log
+2022-04-29 23:06:10,373 [WARNING] app: Warning level log
+2022-04-29 23:06:10,375 [INFO] app: Browse page loading
+2022-04-29 23:06:24,390 [INFO] flask_wtf.csrf: The CSRF token is missing.
+2022-04-29 23:06:24,392 [INFO] flask_wtf.csrf: The CSRF token is missing.
+2022-04-29 23:06:24,396 [INFO] flask_wtf.csrf: The CSRF token is missing.
+2022-04-29 23:07:17,894 [INFO] flask_wtf.csrf: The CSRF token is missing.
+2022-04-29 23:07:17,895 [INFO] flask_wtf.csrf: The CSRF token is missing.
+2022-04-29 23:07:17,899 [INFO] flask_wtf.csrf: The CSRF token is missing.
+2022-04-29 23:07:42,860 [INFO] flask_wtf.csrf: The CSRF token is missing.
+2022-04-29 23:07:42,861 [INFO] flask_wtf.csrf: The CSRF token is missing.
+2022-04-29 23:07:42,864 [INFO] flask_wtf.csrf: The CSRF token is missing.
