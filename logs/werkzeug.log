@@ -3,3 +3,18 @@
 2022-04-29 22:42:34,213 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 22:42:34] "GET /songs/upload HTTP/1.1" 200 -
 2022-04-29 22:42:35,337 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 22:42:35] "GET /songs HTTP/1.1" 200 -
 2022-04-29 22:42:48,899 [INFO] werkzeug:  * Detected change in '/home/myuser/tests/upload_test.py', reloading
+2022-04-29 23:05:54,809 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 23:05:54] "GET / HTTP/1.1" 200 -
+2022-04-29 23:05:56,729 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 23:05:56] "GET /profile HTTP/1.1" 200 -
+2022-04-29 23:05:57,825 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 23:05:57] "GET /account HTTP/1.1" 200 -
+2022-04-29 23:05:59,985 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 23:05:59] "[32mGET /logout HTTP/1.1[0m" 302 -
+2022-04-29 23:05:59,998 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 23:05:59] "GET /login HTTP/1.1" 200 -
+2022-04-29 23:06:06,856 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 23:06:06] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-04-29 23:06:06,873 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 23:06:06] "GET /dashboard HTTP/1.1" 200 -
+2022-04-29 23:06:08,263 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 23:06:08] "GET /songs HTTP/1.1" 200 -
+2022-04-29 23:06:09,146 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 23:06:09] "GET /songs/upload HTTP/1.1" 200 -
+2022-04-29 23:06:09,926 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 23:06:09] "GET /songs/upload HTTP/1.1" 200 -
+2022-04-29 23:06:10,385 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 23:06:10] "GET /users HTTP/1.1" 200 -
+2022-04-29 23:06:10,417 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 23:06:10] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-04-29 23:06:11,731 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 23:06:11] "GET /about HTTP/1.1" 200 -
+2022-04-29 23:06:12,260 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 23:06:12] "GET /welcome HTTP/1.1" 200 -
+2022-04-29 23:07:15,727 [INFO] werkzeug:  * Detected change in '/home/myuser/tests/user_test.py', reloading
