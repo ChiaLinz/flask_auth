@@ -894,3 +894,47 @@ INFO in __init__: requested
 INFO in __init__: db_dir:/home/myuser/app
 [2022-04-29 02:41:54,769] [26] 127.0.0.1 requested http://localhost/page5
 INFO in __init__: requested
+[2022-04-29 02:46:44,952] [36] 127.0.0.1 requested http://localhost/
+INFO in __init__: db_dir:/home/myuser/app
+[2022-04-29 02:46:45,061] [36] 127.0.0.1 requested http://localhost/
+INFO in __init__: requested
+[2022-04-29 02:46:45,083] [36] 127.0.0.1 requested http://localhost/dashboard
+INFO in __init__: db_dir:/home/myuser/app
+[2022-04-29 02:46:45,084] [36] 127.0.0.1 requested http://localhost/dashboard
+INFO in __init__: requested
+[2022-04-29 02:46:45,183] [36] 127.0.0.1 requested http://localhost/register
+INFO in __init__: requested
+[2022-04-29 02:46:45,197] [36] 127.0.0.1 requested http://localhost/login
+INFO in __init__: requested
+[2022-04-29 02:46:45,311] [36] 127.0.0.1 requested http://localhost/
+INFO in __init__: db_dir:/home/myuser/app
+[2022-04-29 02:46:45,399] [36] 127.0.0.1 requested http://localhost/
+INFO in __init__: requested
+[2022-04-29 02:46:45,423] [36] 127.0.0.1 requested http://localhost/
+INFO in __init__: db_dir:/home/myuser/app
+[2022-04-29 02:46:45,516] [36] 127.0.0.1 requested http://localhost/
+INFO in __init__: requested
+[2022-04-29 02:46:45,542] [36] 127.0.0.1 requested http://localhost/
+INFO in __init__: db_dir:/home/myuser/app
+[2022-04-29 02:46:45,636] [36] 127.0.0.1 requested http://localhost/
+INFO in __init__: requested
+[2022-04-29 02:46:45,658] [36] 127.0.0.1 requested http://localhost/
+INFO in __init__: db_dir:/home/myuser/app
+[2022-04-29 02:46:45,749] [36] 127.0.0.1 requested http://localhost/
+INFO in __init__: requested
+[2022-04-29 02:46:45,774] [36] 127.0.0.1 requested http://localhost/
+INFO in __init__: db_dir:/home/myuser/app
+[2022-04-29 02:46:45,889] [36] 127.0.0.1 requested http://localhost/
+INFO in __init__: requested
+[2022-04-29 02:46:45,930] [36] 127.0.0.1 requested http://localhost/about
+INFO in __init__: db_dir:/home/myuser/app
+[2022-04-29 02:46:46,055] [36] 127.0.0.1 requested http://localhost/about
+INFO in __init__: requested
+[2022-04-29 02:46:46,082] [36] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: db_dir:/home/myuser/app
+[2022-04-29 02:46:46,185] [36] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: requested
+[2022-04-29 02:46:46,217] [36] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: db_dir:/home/myuser/app
+[2022-04-29 02:46:46,313] [36] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: requested
