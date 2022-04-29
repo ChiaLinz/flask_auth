@@ -1,0 +1,5 @@
+2022-04-29 22:42:32,377 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 22:42:32] "GET / HTTP/1.1" 200 -
+2022-04-29 22:42:33,745 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 22:42:33] "GET /songs HTTP/1.1" 200 -
+2022-04-29 22:42:34,213 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 22:42:34] "GET /songs/upload HTTP/1.1" 200 -
+2022-04-29 22:42:35,337 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 22:42:35] "GET /songs HTTP/1.1" 200 -
+2022-04-29 22:42:48,899 [INFO] werkzeug:  * Detected change in '/home/myuser/tests/upload_test.py', reloading
