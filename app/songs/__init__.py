@@ -40,12 +40,12 @@ def songs_upload():
             os.mkdir(current_app.config['UPLOAD_FOLDER'])
         form.file.data.save(filepath)
 
-        #user = current_user
+        user = current_user
         list_of_songs = []
         with open(filepath) as file:
             csv_file = csv.DictReader(file)
             for row in csv_file:
-                list_of_songs.append(Song(row['Name'],row['Artist'], row['Year'], row['Genre']))
+                list_of_songs.append(Song(row['Name'],row['Artist'],row['Year'],row['Genre']))
 
         current_user.songs = list_of_songs
         db.session.commit()
