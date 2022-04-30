@@ -23,6 +23,3 @@ def test_upload_file(application, client):
 
         test_file = os.path.join(testdir, 'test.csv')
         assert os.path.exists(test_file) == True
-        upload_dir = os.path.join(root, '../app/uploads')
-        assert os.path.exists(upload_dir) == True
-
