@@ -26,12 +26,3 @@ def test_upload_file(application, client):
         upload_dir = os.path.join(root, '../app/uploads')
         assert os.path.exists(upload_dir) == True
 
-
-        responce = client.post('/songs/upload', data = test_file)
-        assert responce.status_code == 400
-        assert len(os.listdir(upload_dir)) == 1
-        for f in os.listdir(upload_dir):
-            os.remove(os.path.join(upload_dir,f))
-       
-
-
