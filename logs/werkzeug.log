@@ -18,3 +18,9 @@
 2022-04-29 23:06:11,731 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 23:06:11] "GET /about HTTP/1.1" 200 -
 2022-04-29 23:06:12,260 [INFO] werkzeug: 172.22.0.1 - - [29/Apr/2022 23:06:12] "GET /welcome HTTP/1.1" 200 -
 2022-04-29 23:07:15,727 [INFO] werkzeug:  * Detected change in '/home/myuser/tests/user_test.py', reloading
+2022-04-30 00:40:05,354 [INFO] werkzeug: 172.22.0.1 - - [30/Apr/2022 00:40:05] "GET /songs/upload HTTP/1.1" 200 -
+2022-04-30 00:40:05,934 [INFO] werkzeug: 172.22.0.1 - - [30/Apr/2022 00:40:05] "GET /users HTTP/1.1" 200 -
+2022-04-30 00:40:05,968 [INFO] werkzeug: 172.22.0.1 - - [30/Apr/2022 00:40:05] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-04-30 00:40:06,298 [INFO] werkzeug: 172.22.0.1 - - [30/Apr/2022 00:40:06] "GET /welcome HTTP/1.1" 200 -
+2022-04-30 00:40:06,959 [INFO] werkzeug: 172.22.0.1 - - [30/Apr/2022 00:40:06] "GET /songs/upload HTTP/1.1" 200 -
+2022-04-30 00:40:08,069 [INFO] werkzeug: 172.22.0.1 - - [30/Apr/2022 00:40:08] "GET /account HTTP/1.1" 200 -
